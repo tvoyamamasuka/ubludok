@@ -1,0 +1,12 @@
+C:\github\Project\metro1\metro1\obj\Debug\metro1.csprojAssemblyReference.cache
+C:\github\Project\metro1\metro1\obj\Debug\metro1.Form1.resources
+C:\github\Project\metro1\metro1\obj\Debug\metro1.Properties.Resources.resources
+C:\github\Project\metro1\metro1\obj\Debug\metro1.csproj.GenerateResource.cache
+C:\github\Project\metro1\metro1\bin\Debug\metro1.exe.config
+C:\github\Project\metro1\metro1\bin\Debug\metro1.exe
+C:\github\Project\metro1\metro1\bin\Debug\metro1.pdb
+C:\github\Project\metro1\metro1\bin\Debug\MetroFramework.dll
+C:\github\Project\metro1\metro1\bin\Debug\MetroFramework.Fonts.dll
+C:\github\Project\metro1\metro1\obj\Debug\metro1.csproj.CopyComplete
+C:\github\Project\metro1\metro1\obj\Debug\metro1.exe
+C:\github\Project\metro1\metro1\obj\Debug\metro1.pdb
